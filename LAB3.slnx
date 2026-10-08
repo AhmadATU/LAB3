@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Ex 2/Ex 2.csproj" Id="4782a46d-80a5-4eb1-90a1-46f1f5ad9189" />
   <Project Path="Ex 3/Ex 3.csproj" Id="0caa5866-4baa-427e-a5e3-5ede6df0b683" />
+  <Project Path="Ex4/Ex4.csproj" Id="e13ccf2b-820c-4b88-b396-51466f305525" />
   <Project Path="LAB3/LAB3.csproj" />
 </Solution>
