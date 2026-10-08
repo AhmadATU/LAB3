@@ -4,17 +4,17 @@
     {
         static void Main(string[] args)
         {
-            //one class, three objects
+            //first  song, three objects
             song song1 = new song();
             song1.Title = "Galway Girl";
             song1.Artist = "Steve Earle";
             song1.Duration = 200;
-
+            //Second song, three objects
             song song2 = new song();
             song2.Title = "Night DRIVE";
             song2.Artist = "Low Tide";
             song2.Duration = 150;
-
+            //third song, three objects
             song song3 = new song();
             song3.Title = "Intro";
             song3.Artist = "The opener";
