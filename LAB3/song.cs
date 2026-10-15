@@ -20,5 +20,11 @@ namespace LAB3
             int seconds = Duration % 60;
             return $"{minutes}:{seconds:D2}";
         }
+        public class Song
+        {
+            public string Title { get; set; }
+            public int DurationSeconds { get; set; }
+            public bool IsExplicit { get; set; }
+        }
     }
 }
